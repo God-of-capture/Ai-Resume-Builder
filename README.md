@@ -1,4 +1,4 @@
-# AI Resume Builder for Developers
+# AI Resume Builder
 
 A modern, developer-focused resume builder that uses AI to help create professional resumes. Built with React, Tailwind CSS, and powered by AI.
 
